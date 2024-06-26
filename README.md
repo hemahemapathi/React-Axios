@@ -1,8 +1,51 @@
-# React + Vite
+1. React Axios CRUD Application :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+      - This is a simple React application that allows for CRUD (Create, Read, Update, Delete) operations on user data. The application interacts with a mock API to fetch, add, update, and delete user records using Axios for HTTP requests.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Features :
+
+      - Display a list of users fetched from a mock API.
+      - Add a new user.
+      - Edit an existing user.
+      - Delete a user.
+      - Responsive and clean UI.
+
+
+3. Technologies Used :
+
+      - React
+      - Axios
+      - CSS (or any other styling library/framework you used)
+      - Mock API: (https://jsonplaceholder.typicode.com/users)
+
+
+4. The application will open in your default browser at ` http://localhost:5173/`.
+
+5. Usage :
+
+  a.Viewing Users
+
+   - Upon loading the application, a list of users fetched from the mock API will be displayed.
+
+  b.Adding a User
+
+   - Click the "Add User" button.
+   - Fill in the user details in the form.
+   - Click "Submit" to add the user.
+
+  c.Editing a User
+
+   - Click the "Edit" button next to the user you wish to edit.
+   - Modify the user details in the form.
+   - Click "Save" to update the user information.
+
+  d.Deleting a User
+
+   - Click the "Delete" button next to the user you wish to remove.
+   - Confirm the deletion in the prompt.
+
+
+6.License :
+
+   - This project is licensed under the MIT License.
