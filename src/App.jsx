@@ -1,12 +1,12 @@
 // importing Components
 import React, { useState } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from './Components/Home';
-import Users from './Components/Users';
-import Navbar from './Components/Navbar';
-import Edit from './Components/Edit';
-import Create from './Components/Create';
-import Footer from './Components/Footer';
+import Home from './components/Home';
+import Users from './components/Users';
+import Navbar from './components/Navbar';
+import Edit from './components/Edit';
+import Create from './components/Create';
+import Footer from './components/Footer';
 
 const App = () => {
   // setting useState
