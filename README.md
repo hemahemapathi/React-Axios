@@ -24,26 +24,26 @@
 
 5. Usage :
 
-  a.Viewing Users
+     a.Viewing Users
 
-   - Upon loading the application, a list of users fetched from the mock API will be displayed.
+      - Upon loading the application, a list of users fetched from the mock API will be displayed.
 
-  b.Adding a User
+     b.Adding a User
 
-   - Click the "Add User" button.
-   - Fill in the user details in the form.
-   - Click "Submit" to add the user.
+      - Click the "Add User" button.
+      - Fill in the user details in the form.
+      - Click "Submit" to add the user.
 
-  c.Editing a User
+     c.Editing a User
 
-   - Click the "Edit" button next to the user you wish to edit.
-   - Modify the user details in the form.
-   - Click "Save" to update the user information.
+      - Click the "Edit" button next to the user you wish to edit.
+      - Modify the user details in the form.
+      - Click "Save" to update the user information.
 
-  d.Deleting a User
+     d.Deleting a User
 
-   - Click the "Delete" button next to the user you wish to remove.
-   - Confirm the deletion in the prompt.
+      - Click the "Delete" button next to the user you wish to remove.
+      - Confirm the deletion in the prompt.
 
 
 6.License :
