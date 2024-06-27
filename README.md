@@ -46,6 +46,6 @@
       - Confirm the deletion in the prompt.
 
 
-6.License :
+ 6.License :
 
    - This project is licensed under the MIT License.
